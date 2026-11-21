@@ -60,7 +60,7 @@ msgstr ""
 
 #: glossary.rst:27
 msgid "abstract base class"
-msgstr "ऐब्स्ट्रैक्ट बेस क्लास "
+msgstr "ऐब्स्ट्रैक्ट बेस क्लास"
 
 #: glossary.rst:29
 #, fuzzy
